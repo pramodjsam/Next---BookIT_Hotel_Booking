@@ -166,6 +166,10 @@ Code Editor:
 Start coding
 ```
 
+## Performance Test
+- The Performance test result as per GTmetrix is 97% for performance and 98% for structure.
+![performance](./screenshots/performance.png "performance")
+
 ## Note
 
 - For development purpose, the environment variables needs to be added in the next.config.js file.
